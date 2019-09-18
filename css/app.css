@@ -1,0 +1,34 @@
+body{
+	background-color: #2f4050;
+
+}
+
+.col-sm-10{
+	background-color: #FFF;
+}
+#sidemenu{
+	color:#9fb1C2;
+}
+
+#sidemenu .active a{
+
+
+color: #fff;
+background-color: #27AAE1;
+font-weight: bold;
+	}
+
+.sidemenu{
+	width: 50%;
+	}
+	.input2{
+		margin: 0 auto !important;
+
+	}
+
+	#res{
+		margin: 0 auto;
+		width: 150px;
+		font-size:40px;
+		text-align: center;
+	}
